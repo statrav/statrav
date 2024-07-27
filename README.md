@@ -10,25 +10,22 @@ I’m the person who creates the monetary value of data and develop with it.
 
 ---
 
-### Interests
+### 💙Interests
 - Artificial Intelligence & Deep learning (LLM/sLM/RAG/Multimodal)
 
-### Name
-- Hyesu Hwang
-
-### Education
+### 👩‍🎓Education
 - 2022~2024: Master’s in Urban Big Data Convergence Engineering, University of Seoul
 - 2014~2019: Bachelor’s in Business Administration, University of Seoul
 
-### Professional Experience
+### 🏢Professional Experience
 - 2019~2022: Cost Planning Intern and Full-time Employee, SL Corporation
 - 2022~2024: Research Freelancer, Jiyoung Research
 - 2023~2024: Student Researcher, Electronics and Telecommunications Research Institute (ETRI)
 
-### Publications
+### 📜Publications
 - (2024) Bridging the Lexical Gap: Generative Text-to-Image Retrieval for Parts-of-Speech Imbalance in Vision-Language Models
 
-### Research
+### 💻Research
 - **Multimodal**
   - Development of long-term visual memory storage and management technology for relational information
   - Study on POS imbalance in VLMs and generative retrieval solutions (Paper Study)
@@ -42,7 +39,7 @@ I’m the person who creates the monetary value of data and develop with it.
 - **Analysis**
   - Network analysis of local government tourism
 
-### Contact
+### 📞Contact
 - Email: agnas5865@gmail.com
 - LinkedIN:
 <img src="linkedin_hyesu.jpg" alt="QR Code" width="200" height="200">
@@ -60,25 +57,22 @@ I’m the person who creates the monetary value of data and develop with it.
 
 ---
 
-### 관심 분야
+### 💙관심 분야
 - 인공지능 & 딥러닝 (LLM/sLM/RAG/Multimodal)
 
-### 이름
-- 황혜수
-
-### 학력
+### 👩‍🎓학력
 - 2022~2024: 서울시립대학교 도시빅데이터융합학과 공학 석사
 - 2014~2019: 서울시립대학교 경영학부 학사
 
-### 경력
+### 🏢경력
 - 2019~2022: (주)에스엘 원가기획 인턴 및 정직원
 - 2022~2024: 지영리서치 연구용역 프리랜서
 - 2023~2024: 한국전자통신연구원(ETRI) 학생연구원
 
-### 논문
+### 📜논문
 - (2024) Bridging the Lexical Gap: Generative Text-to-Image Retrieval for Parts-of-Speech Imbalance in Vision-Language Models
 
-### 연구
+### 💻연구
 - **멀티모달**
   - 관계 정보의 장기 시각 기억 저장 및 관리 기술 개발
   - VLMs의 POS imbalance 문제 발견 및 Generative retrieval을 통한 문제 해결 연구 (Paper Study)
@@ -92,7 +86,7 @@ I’m the person who creates the monetary value of data and develop with it.
 - **분석**
   - 지자체 관광 네트워크 분석
 
-### 연락처
+### 📞연락처
 - 이메일: agnas5865@gmail.com
 - LinkedIN:
 <img src="linkedin_hyesu.jpg" alt="QR Code" width="200" height="200">
