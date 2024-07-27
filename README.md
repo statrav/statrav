@@ -23,7 +23,7 @@ I’m the person who creates the monetary value of data and develop with it.
 - 2023~2024: Student Researcher, Electronics and Telecommunications Research Institute (ETRI)
 
 ### 📜Publications
-- (2024) Bridging the Lexical Gap: Generative Text-to-Image Retrieval for Parts-of-Speech Imbalance in Vision-Language Models
+- (2024)
 
 ### 💻Research
 - **Multimodal**
@@ -70,7 +70,7 @@ I’m the person who creates the monetary value of data and develop with it.
 - 2023~2024: 한국전자통신연구원(ETRI) 학생연구원
 
 ### 📜논문
-- (2024) Bridging the Lexical Gap: Generative Text-to-Image Retrieval for Parts-of-Speech Imbalance in Vision-Language Models
+- (2024)
 
 ### 💻연구
 - **멀티모달**
