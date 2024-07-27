@@ -11,7 +11,7 @@ I’m the person who creates the monetary value of data and develop with it.
 ---
 
 ### Interests
-- Deep learning (LLM/sLM/RAG/Multimodal)
+- Artifical Intelligence & Deep learning (LLM/sLM/RAG/Multimodal)
 
 ### Name
 - Hyesu Hwang
@@ -61,7 +61,7 @@ I’m the person who creates the monetary value of data and develop with it.
 ---
 
 ### 관심 분야
-- 딥러닝 (LLM/sLM/RAG/Multimodal)
+- 인공지능 & 딥러닝 (LLM/sLM/RAG/Multimodal)
 
 ### 이름
 - 황혜수
