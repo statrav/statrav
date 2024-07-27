@@ -45,7 +45,7 @@ I’m the person who creates the monetary value of data and develop with it.
 ### Contact
 - Email: agnas5865@gmail.com
 - LinkedIN:
-![image](https://github.com/user-attachments/assets/3e334509-f66a-4dfe-9b94-5f7e618d7085)
+<img src="linkedin_hyesu.png" alt="QR Code" width="200" height="200">
 
 
 ---
@@ -95,4 +95,4 @@ I’m the person who creates the monetary value of data and develop with it.
 ### 연락처
 - 이메일: agnas5865@gmail.com
 - LinkedIN:
-![image](https://github.com/user-attachments/assets/3e334509-f66a-4dfe-9b94-5f7e618d7085)
+<img src="linkedin_hyesu.png" alt="QR Code" width="200" height="200">
