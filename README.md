@@ -18,7 +18,7 @@ I’m the person who creates the monetary value of data and develop with it.
 - 2014~2019: Bachelor’s in Business Administration, University of Seoul
 
 ### 🏢Professional Experience
-- 2024~    : Student Resaercher, Naber Cloud
+- 2024~    : Student Resaercher, Naver Cloud
 - 2023~2024: Student Researcher, Electronics and Telecommunications Research Institute (ETRI)
 - 2022~2024: Research Freelancer, Jiyoung Research
 - 2019~2022: Cost Planning Intern and Full-time Employee, SL Corporation
@@ -67,6 +67,7 @@ I’m the person who creates the monetary value of data and develop with it.
 - 2014~2019: 서울시립대학교 경영학부 학사
 
 ### 🏢경력
+- 2024~    : Naver Cloud 학생연구원
 - 2023~2024: 한국전자통신연구원(ETRI) 학생연구원
 - 2022~2024: 지영리서치 연구용역 프리랜서
 - 2019~2022: (주)에스엘 원가기획 인턴 및 정직원
