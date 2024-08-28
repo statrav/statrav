@@ -28,18 +28,30 @@ I’m the person who creates the monetary value of data and develop with it.
 - (2024) Handling Ambiguous Queries Through Query Decomposition in a RAG Setting, CKAIA2024
 
 ### 💻Research
-- **Multimodal**
+1. **Multimodal**
   - Development of long-term visual memory storage and management technology for relational information
   - Study on POS imbalance in VLMs and generative retrieval solutions (Paper Study)
   - Performance enhancement of VQA+RAG and efficiency research through context compression
   - Research on makeup transfer module based on GAN (Generative Adversarial Network)
-- **NLP/RAG**
+2. **NLP/RAG**
   - Study on RAG performance based on query type
   - Development of RAG chatbot based on university researcher database
   - Development of search engine bot based on webtoon information
   - Study on RAG hallucination due to knowledge conflict
-- **Analysis**
+3. **Analysis**
   - Network analysis of local government tourism
+ 
+### 🏭Experiences
+1. **Server**
+ - Server setting & managing based on Linux (Ubuntu OS)
+ - Managing internal cost system & database based on SQL
+ - Using SAP (ERP system)
+2. **Manager of internal cost system & database**
+ - 7% improvement in lamp surface defect rate with data
+ - System updating and deployment
+3. **Administration**
+ - Advanced in MS Office tool (Word, Excel, PPT)
+ - The person in charge of Cost Education (Make materials, Manage students)
 
 ### 📞Contact
 - Email: agnas5865@gmail.com
@@ -77,19 +89,31 @@ I’m the person who creates the monetary value of data and develop with it.
 - (2024) Handling Ambiguous Queries Through Query Decomposition in a RAG Setting, CKAIA2024
 
 ### 💻연구
-- **멀티모달**
+1. **멀티모달**
   - 관계 정보의 장기 시각 기억 저장 및 관리 기술 개발
   - VLMs의 POS imbalance 문제 발견 및 Generative retrieval을 통한 문제 해결 연구 (Paper Study)
   - VQA+RAG의 성능 개선 및 Context compression을 통한 효율 연구
   - GAN(Generative Adversarial Network) 기반의 Makeup Transfer 모듈 연구
-- **NLP/RAG**
+2. **NLP/RAG**
   - Query type에 따른 RAG 성능 연구
   - 교내 연구자 데이터베이스 기반의 RAG 챗봇 개발
   - 웹툰 정보 기반의 검색 엔진 봇 개발
   - Knowledge conflict로 인한 RAG Hallucination 연구
-- **분석**
+3. **분석**
   - 지자체 관광 네트워크 분석
-
+    
+### 🏭경험
+1. **서버**
+ - Linux 기반의 서버 셋팅 & 관리 (Ubuntu OS)
+ - SQL 기반의 사내 원가 시스템 & 데이터베이스 관리
+ - SAP 활용 (ERP system)
+2. **사내 원가 시스템 매니저**
+ - Data를 활용하여 램프 표면 불량률 7% 개선
+ - 시스템 업데이트 및 배포
+3. **행정**
+ - MS Office (Word, Excel, PPT) 숙련도 상(上)
+ - 원가 교육 담당자 (교육자료 제작 및 수강생 관리)
+   
 ### 📞연락처
 - 이메일: agnas5865@gmail.com
 - LinkedIN:
