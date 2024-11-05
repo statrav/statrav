@@ -18,7 +18,8 @@ I’m the person who creates the monetary value of data and develop with it.
 - 2014~2019: Bachelor’s in Business Administration, University of Seoul
 
 ### 🏢Professional Experience
-- 2024~    : Student Resaercher, Naver Cloud
+- 2024~    : Researcher, Urban BigData∙AI Institution of University of Seoul (UBAI)
+- 2024~    : Student Researcher, Naver Cloud
 - 2023~2024: Student Researcher, Electronics and Telecommunications Research Institute (ETRI)
 - 2022~2024: Research Freelancer, Jiyoung Research
 - 2019~2022: Cost Planning Intern and Full-time Employee, SL Corporation
@@ -43,6 +44,7 @@ I’m the person who creates the monetary value of data and develop with it.
  
 ### 🏭Experiences
 1. **Server**
+ - Using Slurm based on Slurm
  - Server setting & managing based on Linux (Ubuntu OS)
  - Managing internal cost system & database based on SQL
  - Using SAP (ERP system)
@@ -51,6 +53,7 @@ I’m the person who creates the monetary value of data and develop with it.
  - System updating and deployment
 3. **Administration**
  - Advanced in MS Office tool (Word, Excel, PPT)
+ - Write Slurm education & guide book
  - The person in charge of Cost Education (Make materials, Manage students)
 
 ### 📞Contact
@@ -79,6 +82,7 @@ I’m the person who creates the monetary value of data and develop with it.
 - 2014~2019: 서울시립대학교 경영학부 학사
 
 ### 🏢경력
+- 2024~    : 서울시립대학교 도시과학 빅데이터∙AI 연구소 연구전담
 - 2024~    : Naver Cloud 학생연구원
 - 2023~2024: 한국전자통신연구원(ETRI) 학생연구원
 - 2022~2024: 지영리서치 연구용역 프리랜서
@@ -104,6 +108,7 @@ I’m the person who creates the monetary value of data and develop with it.
     
 ### 🏭경험
 1. **서버**
+ - Slurm 기반의 슈퍼컴퓨터 Cluster 활용
  - Linux 기반의 서버 셋팅 & 관리 (Ubuntu OS)
  - SQL 기반의 사내 원가 시스템 & 데이터베이스 관리
  - SAP 활용 (ERP system)
@@ -112,6 +117,7 @@ I’m the person who creates the monetary value of data and develop with it.
  - 시스템 업데이트 및 배포
 3. **행정**
  - MS Office (Word, Excel, PPT) 숙련도 상(上)
+ - Slurm 클러스터 교육 자료 제작
  - 원가 교육 담당자 (교육자료 제작 및 수강생 관리)
    
 ### 📞연락처
