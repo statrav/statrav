@@ -29,16 +29,16 @@ I’m the person who creates the monetary value of data and develop with it.
 - (2024) Handling Ambiguous Queries Through Query Decomposition in a RAG Setting, CKAIA2024
 
 ### 💻Research
-1. **Multimodal**
-  - Development of long-term visual memory storage and management technology for relational information
-  - Study on POS imbalance in VLMs and generative retrieval solutions (Paper Study)
-  - Performance enhancement of VQA+RAG and efficiency research through context compression
-  - Research on makeup transfer module based on GAN (Generative Adversarial Network)
-2. **NLP/RAG**
+1. **LLM/RAG**
   - Study on RAG performance based on query type
   - Development of RAG chatbot based on university researcher database
   - Development of search engine bot based on webtoon information
   - Study on RAG hallucination due to knowledge conflict
+2. **Multimodal**
+  - Development of long-term visual memory storage and management technology for relational information
+  - Study on POS imbalance in VLMs and generative retrieval solutions (Paper Study)
+  - Performance enhancement of VQA+RAG and efficiency research through context compression
+  - Research on makeup transfer module based on GAN (Generative Adversarial Network)
 3. **Analysis**
   - Network analysis of local government tourism
  
@@ -93,16 +93,16 @@ I’m the person who creates the monetary value of data and develop with it.
 - (2024) Handling Ambiguous Queries Through Query Decomposition in a RAG Setting, CKAIA2024
 
 ### 💻연구
-1. **멀티모달**
-  - 관계 정보의 장기 시각 기억 저장 및 관리 기술 개발
-  - VLMs의 POS imbalance 문제 발견 및 Generative retrieval을 통한 문제 해결 연구 (Paper Study)
-  - VQA+RAG의 성능 개선 및 Context compression을 통한 효율 연구
-  - GAN(Generative Adversarial Network) 기반의 Makeup Transfer 모듈 연구
-2. **NLP/RAG**
+1. **LLM/RAG**
   - Query type에 따른 RAG 성능 연구
   - 교내 연구자 데이터베이스 기반의 RAG 챗봇 개발
   - 웹툰 정보 기반의 검색 엔진 봇 개발
   - Knowledge conflict로 인한 RAG Hallucination 연구
+2. **멀티모달**
+  - 관계 정보의 장기 시각 기억 저장 및 관리 기술 개발
+  - VLMs의 POS imbalance 문제 발견 및 Generative retrieval을 통한 문제 해결 연구 (Paper Study)
+  - VQA+RAG의 성능 개선 및 Context compression을 통한 효율 연구
+  - GAN(Generative Adversarial Network) 기반의 Makeup Transfer 모듈 연구
 3. **분석**
   - 지자체 관광 네트워크 분석
     
