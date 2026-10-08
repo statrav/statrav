@@ -4,7 +4,7 @@
 
 T-Shaped AI Engineer
 
-📧 agnas5865@naver.com | 📱 010-5060-5593 | 🔗 [LinkedIn/GitHub Link]
+📧 agnas5865@naver.com | 🔗 [LinkedIn/GitHub Link]
 
 ---
 
